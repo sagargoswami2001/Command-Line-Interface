@@ -1,4 +1,4 @@
-# Command-Line-Interface:-
+# Command Line Interface:-
 The command line interface (also known as CLI) is a means to interact with a command line script. Python comes with several different libraries that allow you to write a command line interface for your scripts, but the standard way for creating a CLI in Python is currently the Python argparse library.
 
 # Click Module in Python:-
